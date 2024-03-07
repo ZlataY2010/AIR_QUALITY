@@ -42,7 +42,7 @@
 ## [[Питание]]
 Для автономности нужно установить **Li-ion** аккумулятор ёмкость 180 мАч. Зарядка осуществляется через разъем **Micro-USB.** Для питания всей схемы используется линейный стабилизатор напряжения.
 ## [[Схема, печатная плата, антенна]]
-- [СХЕМА](https://habrastorage.org/r/w1560/getpro/habr/upload_files/f0d/2a6/cfa/f0d2a6cfa7f6c7bc1f1eeafaee491879.jpg) 
+- [Схема](https://habrastorage.org/r/w1560/getpro/habr/upload_files/f0d/2a6/cfa/f0d2a6cfa7f6c7bc1f1eeafaee491879.jpg) 
 
 - https://habrastorage.org/r/w1560/getpro/habr/upload_files/916/9c6/1c8/9169c61c845a0fa67a64572e2788b7ce.png - **Печатная плата**
 
@@ -60,9 +60,9 @@
 ## [[Потребление энергии]]
 Измерение с периодом в **30** секунд потребляет **15,6 мкА**. Вместе с передачей раз в час **405** мкА. На аккумуляторе датчик проработает **18** дней. Если вставить батарейку размера АА, то получается уже **260** дней автономности.
 
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/3cc/135/6fa/3cc1356fa7333fb52f3f854b1d7b082e.png - **Потребление без передачи**
+- [Потребление без передачи](https://habrastorage.org/r/w1560/getpro/habr/upload_files/3cc/135/6fa/3cc1356fa7333fb52f3f854b1d7b082e.png) 
 
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/f72/952/6b1/f729526b16d59799514b212f987c7bf2.png - **Среднее потребление**
+- [Среднее потребление](https://habrastorage.org/r/w1560/getpro/habr/upload_files/f72/952/6b1/f729526b16d59799514b212f987c7bf2.png)  
 ##  [[Сеть и данные]]
 Далее данные попадают на сервер **NB-Fi**, где их можно будет получить через **API**. 
  
