@@ -42,17 +42,17 @@
 ## [[Питание]]
 Для автономности нужно установить **Li-ion** аккумулятор ёмкость 180 мАч. Зарядка осуществляется через разъем **Micro-USB.** Для питания всей схемы используется линейный стабилизатор напряжения.
 ## [[Схема, печатная плата, антенна]]
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/f0d/2a6/cfa/f0d2a6cfa7f6c7bc1f1eeafaee491879.jpg - **Схема**
+- [СХЕМА](https://habrastorage.org/r/w1560/getpro/habr/upload_files/f0d/2a6/cfa/f0d2a6cfa7f6c7bc1f1eeafaee491879.jpg) 
 
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/916/9c6/1c8/9169c61c845a0fa67a64572e2788b7ce.png - **Печатная плата**
+- https://habrastorage.org/r/w1560/getpro/habr/upload_files/916/9c6/1c8/9169c61c845a0fa67a64572e2788b7ce.png - **Печатная плата**
 
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/b03/d7f/9a2/b03d7f9a2a6100f74747606bc33bae5d.jpg - **Модель расчёта антенны**
+- https://habrastorage.org/r/w1560/getpro/habr/upload_files/b03/d7f/9a2/b03d7f9a2a6100f74747606bc33bae5d.jpg - **Модель расчёта антенны**
 
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/8a4/ddb/132/8a4ddb132c74210f0e42370b877a0efc.jpg - **Коэффициент отражения волны**
+- https://habrastorage.org/r/w1560/getpro/habr/upload_files/8a4/ddb/132/8a4ddb132c74210f0e42370b877a0efc.jpg - **Коэффициент отражения волны**
 
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/0ba/1eb/d28/0ba1ebd2885462dd1adac35244275bf1.jpg - **Коэффициент стоячей волны**
+- https://habrastorage.org/r/w1560/getpro/habr/upload_files/0ba/1eb/d28/0ba1ebd2885462dd1adac35244275bf1.jpg - **Коэффициент стоячей волны**
 
-https://habrastorage.org/r/w1560/getpro/habr/upload_files/b92/7cc/d4d/b927ccd4d1ecd5db4365569248c176a8.jpg - **Диаграмма направленности**
+- https://habrastorage.org/r/w1560/getpro/habr/upload_files/b92/7cc/d4d/b927ccd4d1ecd5db4365569248c176a8.jpg - **Диаграмма направленности**
 ## [[Софт]]
 Данные отправляются каждый **час** с процентным расходом передаваемых показателей каждые **2,5 минуты**. 
  
